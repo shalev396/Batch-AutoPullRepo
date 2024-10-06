@@ -7,6 +7,7 @@ C: && cd C:\Projects\Android-project-komezz && git.exe pull
 C: && cd C:\Projects\Java-project-KomezzFileMonitor && git.exe pull
 C: && cd C:\Projects\Batch-AutoPullRepo && git.exe pull
 C: && cd C:\Projects\Frontend-Mentor-projects && git.exe pull
+C: && cd C:\Projects\red-Alerts && git.exe pull
 REM:techer files
 REM:Omer files
 C: && cd C:\Iitc Techers Files\Omer\js-basics-inclass && git.exe pull

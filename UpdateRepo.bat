@@ -17,4 +17,12 @@ REM:Israel files
 C: && cd C:\Iitc Techers Files\Israel\SQL_NODE && git.exe pull
 REM:Liron files
 C: && cd C:\Iitc Techers Files\Liron\TA-at-IITC && git.exe pull
+REM:HomeWork
+C: && cd C:\Projects\HomeWork-Small-Projects\api-playground-exercies-shalev396 && git.exe pull
+C: && cd C:\Projects\HomeWork-Small-Projects\atm-task-shalev396 && git.exe pull
+C: && cd C:\Projects\HomeWork-Small-Projects\basic-node-js-shalev396  && git.exe pull
+C: && cd C:\Projects\HomeWork-Small-Projects\big-api-project-shalev396 && git.exe pull
+C: && cd C:\Projects\HomeWork-Small-Projects\frontend-mentor-faq-accordion-shalev396 && git.exe pull
+C: && cd C:\Projects\HomeWork-Small-Projects\frontend-mentor-interactive-rating-component-shalev396 && git.exe pull
+C: && cd C:\Projects\HomeWork-Small-Projects\sukkot-assignment-shalev396 && git.exe pull
 pause
